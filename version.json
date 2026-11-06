@@ -4,5 +4,5 @@
   "minVersionCode": 1,
   "apkUrl": "https://github.com/USER/REPO/releases/download/v1.1/neoiptv.apk",
   "sha256": "o_hash_do_apk",
-  "changelog": "• Corrigido X\n• Novo Y"
+  "changelog": "• Corrigido1 X\n• Novo Y"
 }
